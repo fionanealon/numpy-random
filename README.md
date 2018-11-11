@@ -14,4 +14,4 @@ How to run a Jupyter Notebook:
 9. Once navigated to the folder, type jupyter notebook at the command prompt in cmder
 10. A jupyter browser window will then open
 11. To create a new jupyter notebook, go to the new drop down menu and select python 3
-12. This will open a new browser tab with that notebook opened
+12. This will open a new browser tab with the jupyter notebook
